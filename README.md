@@ -18,3 +18,6 @@ Una vez instalado ambos:
 
 * Ubicado ya en el panel de damos _start_ a Apache y MySQL.
 
+## Referencia
+
+[video](https://wordpress.org/download/) - Tutorial completa de instalacción wordpress local con xampp
