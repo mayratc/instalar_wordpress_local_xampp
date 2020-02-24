@@ -20,4 +20,4 @@ Una vez instalado ambos:
 
 ## Referencia
 
-[video](https://wordpress.org/download/) - Tutorial completa de instalacción wordpress local con xampp
+[video](https://www.youtube.com/watch?v=jqr0csBUsC0&t=399s) - Tutorial completa de instalacción wordpress local con xampp
